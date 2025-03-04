@@ -1,4 +1,4 @@
-# -Design-of-Surfactant-Molecules-Under-Performance-Constraints
+# Design-of-Surfactant-Molecules-Under-Performance-Constraints
 This repository contains the data and models necessary to ensure the reproducibility of the results presented in the paper.
 
 The heads and tails are provided as pickle files, available both as bond matrices and in SMILES notation. The final surfactant structures are also shared in SMILES format.
